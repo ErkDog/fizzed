@@ -11,7 +11,6 @@ The two console apps are included in this solution for simplicity and to help ke
 You can either set each project individually as the startup project and press F5, or go to each of their
 respective bin folders and run the executables manually.
 
----
 
 Instructions converted to text form (from Instructions.docx file):
 
